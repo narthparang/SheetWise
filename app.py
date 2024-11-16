@@ -107,7 +107,7 @@ def extract_with_gemini(search_results, entity):
 
 # Streamlit app
 def main():
-    st.title("AI Agent for Information Retrieval")
+    st.title("SheetWise: AI Agent for Information Retrieval")
 
     # Step 1: Load CSV or Google Sheet
     option = st.selectbox("Choose Data Source", ["Upload CSV", "Connect Google Sheet"])
