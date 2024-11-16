@@ -24,3 +24,41 @@ This project is an **AI Agent** that allows users to extract structured informat
 - **Google Sheets API**: For integrating Google Sheets data.
 - **Gemini API**: For leveraging language models to extract information.
 
+- # AI Agent User Guide
+
+Welcome to the AI Agent! This guide will help you understand how to use the AI Agent for querying data from your CSV files or Google Sheets.
+
+## Getting Started
+
+### Step 1: Upload a CSV File or Insert Google Sheets Link
+
+- **Upload CSV File:** Click on the upload button to select and upload your CSV file.
+- **Insert Google Sheets Link:** If you prefer to use a Google Sheet, paste the link to your Google Sheet in the designated input area.
+
+### Step 2: Select the Column for Querying
+
+- After uploading your CSV file or inserting the Google Sheets link, you will see a list of available columns.
+- Select the column that you want to search for your query.
+
+### Step 3: Write Your Query
+
+- In the search box provided, enter your query. This is the information you want to search for in the selected column.
+
+### Step 4: Connect to Google Custom Search Engine
+
+- Once you have entered your query, the AI Agent will connect to the Google Custom Search Engine.
+- The agent will then parse the retrieved information and process it using Gemini.
+
+### Step 5: Download the Results
+
+- After processing, the AI Agent will generate a CSV file containing all the results related to your query.
+- You can download this results file by clicking the "Download" button.
+
+## Conclusion
+
+That's it! You are now ready to use the AI Agent for querying data from your CSV files or Google Sheets. If you have any questions or need further assistance, feel free to reach out.
+
+Happy querying!
+
+
+
