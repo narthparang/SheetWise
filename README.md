@@ -60,5 +60,9 @@ That's it! You are now ready to use the AI Agent for querying data from your CSV
 
 Happy querying!
 
+![image](https://github.com/user-attachments/assets/3d75228a-6872-43c3-966f-40a15c956199)
+![image](https://github.com/user-attachments/assets/29a7c2c1-cbec-4e9a-811a-86521d00de1f)
+
+
 
 
