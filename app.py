@@ -69,7 +69,7 @@ def load_google_sheet(sheet_id, sheet_api_key):
 # Function to perform Google Custom Search
 def search_google(query, gsearch_api_key, cse_id):
     search_url = f"https://www.googleapis.com/customsearch/v1?q={query}&key={gsearch_api_key}&cx={cse_id}"
-    st.write("Google Search API Request URL:", search_url)  # Debugging: Print the request URL
+   # st.write("Google Search API Request URL:", search_url)  # Debugging: Print the request URL
     response = requests.get(search_url)
     
     # Debugging: Print the response status and content
